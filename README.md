@@ -1,5 +1,5 @@
 # PRML_Data_Contest
-This code and report is as part of data contest organized by B. Ravindran sir as part of PRML course requirement
+This code and report is as part of data contest organized as part of PRML course requirement
 the link of data contest: https://www.kaggle.com/competitions/prml-data-contest-jul-2021-rb-section
 
 Data was provided seperately which was private.
